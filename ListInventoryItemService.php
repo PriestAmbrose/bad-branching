@@ -5,11 +5,6 @@ January 11 non-conflict
 php
 php
 php
-three
-lines
-of 
-code
-php
 php
 php
 php
